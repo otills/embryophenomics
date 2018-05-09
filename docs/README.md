@@ -1,6 +1,4 @@
 
-![Header gif](https://cloud.githubusercontent.com/assets/8396231/23993626/3c848470-0a39-11e7-9045-5bac33bd48be.gif)
-
 ## What is embryo-phenomics?
 Embryo-phenomics is a technological platform for studying the phenome of aquatic embryos. Embryonic development is the most dynamic period of an organisms' life - temporally, functionally and spatially. Embryo-phenomics consists of two pieces of high-throughput technology - bioimaging hardware [OpenVIM](www.openvim.org) and analytical software [EmbryoCV](www.embryocv.org). These technologies are synergistic and enable the visualisation and quantification of the dynamic process of whole-organism development with high temporal accuracy, in large numbers of embryos all while finely controlling the embryonic environment. The embryo-phenomics platform is automated and so can run over prolonged periods without any need for manual interaction and is therefore ideal for capturing the process of embryonic development which, while dynamic, also occurs over the course of hours and days.
 
