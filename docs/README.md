@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/embryocvScrollingData_cropped.gif" width="300"/>
+<img src="assets/embryophenomicslogo.png" width="300"/>
 <h1 align="center">A window on the dynamic period of embryonic development!</h1>
 <h3 align="center">Hardware and software for visualising, quantifying and studying developing embryos</h3>
 </p>
