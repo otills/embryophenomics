@@ -19,7 +19,9 @@ Both the OpenVIM hardware and EmbryoCV software are open-source and freely avail
 
 While OpenVIM can be used with a broad range of experimental designs and associated image acquisition parameters, EmbryoCV is really tailored towards experiments in which 'real-time' image sequences are acquired of each embryo over successive time points. This approach allows visualising, and thereby quantifying, both long term developmental responses, but also responses only evident in real-time, such as heart rate, movements. See below for a sample of how this works and allows both a 'time-lapse', but also at any time point also a 'real-time' view of developing embryos.
 
-<img src="assets/zoomedTempRadix.gif" width="800"/>
+<p align="center">
+<img src="assets/zoomedTempRadix.gif" width="400"/>
+
 
 [EmbryoCV](http://www.embryocv.org) is a Python software for automated high-throughput analysis of the video datasets produced by the OpenVIM platform.  In testing EmbryoCV has been applied to the automated quantification of embryos in > 30M images and includes measures of size, shape, movement and physiological parameters including heart rate and intrinsic embryo movements, which have proven a reliable measure of embryo health and lethal end points. The raw data from EmbryoCV include both obviously relevant biological data (growth rates, heart rates, movements, lethal end points), but also data that can be further interrogated to identify new or as yet unknown end points. A central ethos in the design of EmbryoCV was to maximise the extraction of data that could be biologically relevant i.e. rather than simply producing a classification of alive or dead (although this can also be done using the output data), also produce data that are relevant and valuable to understanding the complex biological responses of developing organisms.
 
