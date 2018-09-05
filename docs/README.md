@@ -1,3 +1,8 @@
+<p align="center">
+<img src="assets/embryocvScrollingData_cropped.gif" width="300"/>
+<h1 align="center">A window on the dynamic period of embryonic development!</h1>
+<h3 align="center">Hardware and software for visualising, quantifying and studying developing embryos</h3>
+</p>
 
 ## What is EmbryoPhenomics?
 EmbryoPhenomics is a technological platform for studying the phenome of aquatic embryos. Embryonic development is the most dynamic period of an organisms' life - temporally, functionally and spatially. EmbryoPhenomics consists of two pieces of high-throughput technology - bioimaging hardware [OpenVIM](http://www.openvim.org) and analytical software [EmbryoCV](http://www.embryocv.org). These technologies are synergistic and enable the visualisation and quantification of the dynamic process of whole-organism development with high temporal accuracy, in large numbers of embryos all while finely controlling the embryonic environment. The EmbryoPhenomics platform is automated and so can run over prolonged periods without any need for manual interaction and is therefore ideal for capturing the process of embryonic development which, while dynamic, also occurs over the course of hours and days.
